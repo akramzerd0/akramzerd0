@@ -1,6 +1,6 @@
 
 
-########### 👋 Hi there , I’m Akram Zerdaoui
+# 👋 Hi there , I’m Akram Zerdaoui
 
 ### 📊 Data Science | 🤖 Machine Learning | 📈 Analytics & Business Intelligence
 
